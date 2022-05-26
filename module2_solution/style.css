@@ -16,8 +16,7 @@ h1 {
 #box {
   padding-right: 10px;
   padding-left: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 /* For Sections Including Subtitle and Texts */
@@ -55,8 +54,8 @@ section {
 /* For Dummy Texts */
 .para {
   font-size: 20px;
-  margin-right: 5px;
-  margin-left: 5px;
+  margin: 0px;
+  padding: 10px;
   clear: right;
 }
 
