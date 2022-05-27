@@ -21,7 +21,7 @@ h1 {
 
 /* For Sections Including Subtitle and Texts */
 section {
-  border: 1px solid black;
+  border: 2px solid black;
   background-color: #92a887;
   width: 100%;
   font-family: Georgia;
@@ -30,12 +30,12 @@ section {
 
 /* For Subtitles Chicken, Beef and Sushi */
 .subtitle{
-  border: 1px solid black;
+  border: 2px solid black;
   float: right;
   font-family: Georgia;
   font-size: 25px;
   font-weight: bold;
-  margin: -1px -1px -1px -1px;
+  margin: -2px -2px 0px 0px;
   padding: 0px 15px 0px 15px;
 }
 
