@@ -1,2 +1,2 @@
-# web_development
+# Web_Development
 For the coursera course HTML, CSS, and Javascript for Web Developers
