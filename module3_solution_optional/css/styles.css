@@ -20,6 +20,7 @@ body {
   color: #ebebd1;
   font-size: 1.5em;
   font-weight: bold;
+  font-family: 'Dancing Script', cursive;
   text-shadow: 1px 1px 1px #222;
   margin-left: 0;
   margin-top: -10px;
@@ -42,19 +43,27 @@ body {
 }
 
 
+/** MENU HEADING **/
 h1.menu-heading {
+  font-family: 'Dancing Script', cursive;
   text-shadow: 1px 1px 1px #222;
 }
 
+/** MENU TILES **/
 #menu-tiles {
   margin-top: 10px;
   padding: 15px;
 }
 
-#menu-tiles .col-xs-12 {
+.menu-item-title {
+  font-family: 'Dancing Script', cursive;
+}
+.menu-item-tile {
   background-color: #ebebd1;
+  padding: 5px 5px 2px 5px;
 }
 
 div.col-xs-12, div.col-sm-12, div.col-sm-6, div.col-md-4 {
   margin-bottom: 10px;
+  padding-left: 10px;
 }
