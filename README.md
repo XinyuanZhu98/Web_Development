@@ -1,5 +1,5 @@
 # Web_Development
-For the Coursera course *HTML, CSS, and Javascript for Web Developers* delivered by Yaakov Chaikin.
+For the Coursera course *HTML, CSS, and Javascript for Web Developers* delivered by Yaakov Chaikin.  
 Coursera page: https://www.coursera.org/learn/html-css-javascript-for-web-developers/  
 GitHub repo: https://github.com/jhu-ep-coursera/fullstack-course4  
 
